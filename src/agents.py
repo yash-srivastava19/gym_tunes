@@ -1,4 +1,3 @@
-from crewai import Agent 
 from langchain_cohere import ChatCohere
 from composio_crewai import ComposioToolset, Action, App
  
