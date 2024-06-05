@@ -2,3 +2,4 @@ streamlit
 spotipy
 composio_core
 langchain-cohere
+composio_crewai
